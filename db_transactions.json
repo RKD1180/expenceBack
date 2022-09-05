@@ -1,0 +1,88 @@
+{
+  "transactions": [
+    {
+      "name": "Pendrive",
+      "amount": "500",
+      "type": "expense",
+      "id": 3
+    },
+    {
+      "name": "Salary",
+      "type": "income",
+      "amount": 20000,
+      "id": 4
+    },
+    {
+      "name": "upori income",
+      "type": "income",
+      "amount": 20000,
+      "id": 5
+    },
+    {
+      "name": "Platina",
+      "type": "expense",
+      "amount": 19500,
+      "id": 6
+    },
+    {
+      "name": "check",
+      "type": "expense",
+      "amount": 500,
+      "id": 7
+    },
+    {
+      "name": "Lamborgini sell",
+      "type": "income",
+      "amount": 50000,
+      "id": 8
+    },
+    {
+      "name": "get gift",
+      "type": "income",
+      "amount": 6000,
+      "id": 9
+    },
+    {
+      "name": "salary ",
+      "type": "income",
+      "amount": 60000,
+      "id": 10
+    },
+    {
+      "name": "Bike",
+      "type": "expense",
+      "amount": 5000,
+      "id": 11
+    },
+    {
+      "name": "buy bike",
+      "type": "expense",
+      "amount": 50000,
+      "id": 12
+    },
+    {
+      "name": "sell bike",
+      "type": "income",
+      "amount": 60000,
+      "id": 13
+    },
+    {
+      "name": "buy iphone",
+      "type": "expense",
+      "amount": 50000,
+      "id": 14
+    },
+    {
+      "name": "sell iphone",
+      "type": "income",
+      "amount": 60000,
+      "id": 15
+    },
+    {
+      "name": "Platina 2",
+      "type": "income",
+      "amount": 100000,
+      "id": 16
+    }
+  ]
+}
